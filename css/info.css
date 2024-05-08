@@ -1,0 +1,22 @@
+.hidden {
+    display: none;
+  }
+  span {
+    color: var(--color-bg1);
+  }
+  .modal-canvas {
+    width: 40%;
+    height: 55%;
+    position: fixed;
+    top: 10%;
+    left: 30%;
+    padding: 25px;
+    background-color: var(--color-bg1);
+  }
+  .modal {
+    background-color: #fff;
+  }
+  .modal-close {
+    cursor: pointer;
+  }
+  
